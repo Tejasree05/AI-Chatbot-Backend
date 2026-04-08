@@ -1,3 +1,5 @@
+User → API → AI → Save to DB → Return response
+
 ai-chatbot-backend/
 ├── src/
 │   ├── main/
